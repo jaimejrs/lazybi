@@ -1,0 +1,4 @@
+interface:
+  display_name: "LazyBI"
+  short_description: "Dashboards Power BI simples e corretos em .pbip"
+  default_prompt: "Use $lazybi full para criar ou simplificar meu dashboard Power BI em .pbip."
